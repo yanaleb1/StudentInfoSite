@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\StudentInfoSite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{093130B2-A601-148B-0C91-487BDB81DD6F}|StudentInfoSite.csproj|c:\\users\\user\\studentinfosite\\studentinfosite.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{093130B2-A601-148B-0C91-487BDB81DD6F}|StudentInfoSite.csproj|solutionrelative:studentinfosite.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentInfoSite",
+              "DocumentMoniker": "C:\\Users\\User\\StudentInfoSite\\StudentInfoSite.csproj",
+              "RelativeDocumentMoniker": "StudentInfoSite.csproj",
+              "ToolTip": "C:\\Users\\User\\StudentInfoSite\\StudentInfoSite.csproj",
+              "RelativeToolTip": "StudentInfoSite.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-02T23:20:08.309Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

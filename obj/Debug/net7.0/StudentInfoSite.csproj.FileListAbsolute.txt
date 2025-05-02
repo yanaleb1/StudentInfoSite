@@ -1,0 +1,8 @@
+C:\Users\User\StudentInfoSite\obj\Debug\net7.0\StudentInfoSite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\StudentInfoSite\obj\Debug\net7.0\StudentInfoSite.AssemblyInfoInputs.cache
+C:\Users\User\StudentInfoSite\obj\Debug\net7.0\StudentInfoSite.AssemblyInfo.cs
+C:\Users\User\StudentInfoSite\obj\Debug\net7.0\StudentInfoSite.csproj.CoreCompileInputs.cache
+C:\Users\User\StudentInfoSite\obj\Debug\net7.0\StudentInfoSite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\StudentInfoSite\obj\Debug\net7.0\StudentInfoSite.RazorAssemblyInfo.cache
+C:\Users\User\StudentInfoSite\obj\Debug\net7.0\StudentInfoSite.RazorAssemblyInfo.cs
+C:\Users\User\StudentInfoSite\obj\Debug\net7.0\StudentInfoSite.sourcelink.json
